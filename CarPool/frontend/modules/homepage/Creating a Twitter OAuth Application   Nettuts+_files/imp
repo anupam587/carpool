@@ -1,7 +1,0 @@
-document.write('<object type=\"application/x-shockwave-flash\" data=\"http://content.yieldmanager.edgesuite.net/atoms/2a/2c/eb/93/2a2ceb93917a0ea2c951d07529ad5914.swf?clickTAG=http%3A%2F%2Fad%2Eyieldmanager%2Ecom%2Fclk%3F3%2CeJydjNkOgjAQRX8Iky5WaRofWhtUpCwGF3yTQgigIcYFwtcrQvgAz8Odk8ydgZhpShKtNTDnCYUxggxiHeMkvSBCDcAYQzOKphRhkxgZFi8ut9IPOJ4sA8E7bOTtMt7zm1XvvtmlJeGpOQ572B6c3kSlYM3%2ER5S20INvOP%2D%2DyqTJ3%2Ed1%2DmhrMdakW6hVhFWRASfUjZLBU4XWVeWARK1dOuEee6Eozjc3dwsNomC8XBjGBzM%2ET98%3D%2C\" height=\"600\" width=\"160\" loop=\"false\" wmode=\"opaque\"><param name=\"wmode\" value=\"opaque\"><param name=\"movie\" value=\"http://content.yieldmanager.edgesuite.net/atoms/2a/2c/eb/93/2a2ceb93917a0ea2c951d07529ad5914.swf?clickTAG=http%3A%2F%2Fad%2Eyieldmanager%2Ecom%2Fclk%3F3%2CeJydjNkOgjAQRX8Iky5WaRofWhtUpCwGF3yTQgigIcYFwtcrQvgAz8Odk8ydgZhpShKtNTDnCYUxggxiHeMkvSBCDcAYQzOKphRhkxgZFi8ut9IPOJ4sA8E7bOTtMt7zm1XvvtmlJeGpOQ572B6c3kSlYM3%2ER5S20INvOP%2D%2DyqTJ3%2Ed1%2DmhrMdakW6hVhFWRASfUjZLBU4XWVeWARK1dOuEee6Eozjc3dwsNomC8XBjGBzM%2ET98%3D%2C\" /></object>');
-var rm_data = new Object();
-rm_data.creative_id = 19200055;
-rm_data.offer_type = 679;
-rm_data.entity_id = 812512;
-
-if (window.rm_crex_data) {rm_crex_data.push(19200055);}
